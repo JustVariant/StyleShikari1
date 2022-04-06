@@ -19,3 +19,4 @@ requests
 spotipy
 tgcrypto
 wget
+git+https://github.com/Botmirror69/ytshikar
